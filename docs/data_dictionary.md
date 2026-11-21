@@ -3,7 +3,7 @@
 Dokumen ini menjelaskan arti setiap kolom pada semua file data proyek, mulai dari data mentah yang diambil dari tiap sumber sampai tabel akhir yang dipakai aplikasi. Setiap anggota tim yang mengisi atau mengolah CSV wajib mengikuti nama kolom, satuan, dan format yang ada di sini, supaya data dari semua orang bisa digabungkan tanpa perlu diperbaiki satu per satu.
 
 - **Kelompok:** 13 (Data Analitik dan Data Science, IT Del)
-- **Wilayah:** Kabupaten Toba dan Kabupaten Samosir (tanpa Simalungun, termasuk Parapat dan Tigaras)
+- **Wilayah:** Kabupaten Toba dan Kabupaten Samosir. Simalungun tidak termasuk, jadi Parapat dan Tigaras juga tidak termasuk.
 - **Periode data:** 2024 sampai 2026
 - **Acuan:** Daftar Variabel Final Smart Traveler versi 1.1
 - **Issue:** #7
